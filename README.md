@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @bhargavCSSE
-- 👀 I’m interested in making music with AI
-- 🌱 I’m currently learning Reinforcement learning and Spiking neural networks
-- 📫 How to reach me ... bhargav.csse@gmail.com
+- 👀 Currently the owner of thespikedimension.com
