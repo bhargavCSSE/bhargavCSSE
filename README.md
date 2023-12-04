@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @bhargavCSSE
-- 👀 Currently the owner of thespikedimension.com
+- 👀 Owner of BotLife
